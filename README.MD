@@ -142,7 +142,7 @@
     </a> 
 </div>
 
-<div style="margin-bottom: 50px; display: grid; gap: 10px; grid: 150px / auto auto auto;">
+<div style="margin-bottom: 50px; display: grid; gap: 10px; grid: 150px / auto auto;">
     <img width="320" src="https://github-readme-stats.vercel.app/api?username=truonggiangit793&show_icons=true&locale=en" alt="truonggiangit793" />
     <img width="340" src="https://github-readme-streak-stats.herokuapp.com/?user=truonggiangit793&" alt="truonggiangit793" />
     <img width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=truonggiangit793&show_icons=true&locale=en&layout=compact&hide_progress=true" alt="truonggiangit793" />
