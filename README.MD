@@ -4,8 +4,8 @@
 
 <div align="center">
     <h1 style="display: flex; justify-content: space-between">
-        <p style="font-weight: bold;">Hi there! 👋 I'm Truong Giang</p>
-        <p>
+        <p align="left" style="font-weight: bold;">Hi there! 👋 I'm Truong Giang</p>
+        <p align="right">
             <a href="https://fb.com/truonggiangit793" target="blank">
                 <img  src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" alt="truonggiangit793" height="30" width="30" />
             </a>
