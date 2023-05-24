@@ -48,8 +48,8 @@
 
 <h1 align="center">🔥 My Github Stats</h1>
 <div align="center" style="margin-bottom: 4rem;">
-    <img height="150px" style="margin-right: 0.5rem" src="https://github-readme-stats.vercel.app/api?username=truonggiangit793&show_icons=true&theme=light&locale=en" alt="truonggiangit793" />
-    <img height="150px" style="margin-left: 0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=truonggiangit793&show_icons=true&theme=light&locale=en" alt="truonggiangit793" />
+    <img height="150px" style="margin-right: 0.5rem" src="https://github-readme-stats.vercel.app/api?username=truonggiangit793&show_icons=true&theme=transparent&locale=en" alt="truonggiangit793" />
+    <img height="150px" style="margin-left: 0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=truonggiangit793&show_icons=true&theme=transparent&locale=en" alt="truonggiangit793" />
 </div>
 
 <h1 align="center">🤙 Keep contact with me</h1>
