@@ -62,7 +62,7 @@
 </div>
 
 <h1 align="center">🔥 My Github Stats</h1>
-<span align="center" style="margin-bottom: 2rem; display: flex; justify-content: center">
+<div align="center" style="margin-bottom: 2rem; display: flex; justify-content: center">
     <img height="150px" style="margin-right: 0.5rem" src="https://github-readme-stats.vercel.app/api?username=truonggiangit793&show_icons=true&theme=light&locale=en" alt="truonggiangit793" />
     <img height="150px" style="margin-left: 0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=truonggiangit793&show_icons=true&theme=light&locale=en" alt="truonggiangit793" />
-</span>
+</div>
