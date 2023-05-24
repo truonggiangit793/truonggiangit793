@@ -2,24 +2,22 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://forthebadge.com)
 
-<div align="center">
-    <h1>
-        <div style="display: flex; justify-content: space-between">
-             <span align="left" style="font-weight: bold;">Hi there! 👋 I'm Truong Giang</span>
-            <span align="right">
-                <a href="https://fb.com/truonggiangit793" target="blank">
-                    <img  src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" alt="truonggiangit793" height="30" width="30" />
-                </a>
-                <a href="https://instagram.com/truonggiangit793" target="blank">
-                    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="truonggiangit793" height="30" width="30" />
-                </a>
-                <a href="https://discord.gg/truonggiangit793#1664" target="blank">
-                    <img src="https://cdn-icons-png.flaticon.com/512/2335/2335349.png" alt="truonggiangit793#1664" height="30" width="30" />
-                </a>
-            </span>
-        </div>
-    </h1>
-</div>
+<h1>
+    <div style="display: flex; justify-content: space-between">
+        <span align="left" style="font-weight: bold;">Hi there! 👋 I'm Truong Giang</span>
+        <span align="right">
+            <a href="https://fb.com/truonggiangit793" target="blank">
+                <img  src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" alt="truonggiangit793" height="30" width="30" />
+            </a>
+            <a href="https://instagram.com/truonggiangit793" target="blank">
+                <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="truonggiangit793" height="30" width="30" />
+            </a>
+            <a href="https://discord.gg/truonggiangit793#1664" target="blank">
+                <img src="https://cdn-icons-png.flaticon.com/512/2335/2335349.png" alt="truonggiangit793#1664" height="30" width="30" />
+            </a>
+        </span>
+    </div>
+</h1>
 
 <h1 align="center">😊 About me</h1>
 <div style="display: flex; align-items: center; margin-bottom: 2rem">
