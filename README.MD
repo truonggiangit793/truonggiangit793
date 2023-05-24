@@ -2,13 +2,17 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://forthebadge.com)
 
-<h1 align="center">Hi there! 👋 I'm Truong Giang</h1>
-<table>
+<h1 align="left">Hi there! 👋 I'm Truong Giang</h1>
+<div style="margin-bottom: 4rem">
+    <img align="right" width="30%" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966"/>
+    <p align="left">I am Giang from Vietnam 🇻🇳. Currently, I am studying Computer network and Data communication 🖥 at Ton Duc Thang University in Ho Chi Minh City. I have a passion in website development (both front-end and back-end) 😊. I have a creative eye for designing visually appealing websites. 💪 I have actively sought opportunities to enhance my skills and stay up-to-date with the latest industry trends, and I am looking for a challenging and rewarding position.</p>
+</div>
+<!-- <table>
     <tr>
         <td><p align="center">I am Giang from Vietnam 🇻🇳. Currently, I am studying Computer network and Data communication 🖥 at Ton Duc Thang University in Ho Chi Minh City. I have a passion in website development (both front-end and back-end) 😊. I have a creative eye for designing visually appealing websites. 💪 I have actively sought opportunities to enhance my skills and stay up-to-date with the latest industry trends, and I am looking for a challenging and rewarding position.</p></td>
         <td><img width="550px" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966"/></td>
     </tr>
-</table>
+</table> -->
 
 <h1 align="center">🖥 Technology Stack</h1>
 <div align="center" style="margin-bottom: 4rem">
