@@ -9,7 +9,7 @@
     <p align="left">I am Giang from Vietnam 🇻🇳. Currently, I am studying Computer network and Data communication 🖥 at Ton Duc Thang University in Ho Chi Minh City. I have a passion in website development (both front-end and back-end) 😊. I have a creative eye for designing visually appealing websites. 💪 I have actively sought opportunities to enhance my skills and stay up-to-date with the latest industry trends, and I am looking for a challenging and rewarding position.</p>
 </div>
 
-<h1 align="center">🖥 Technology Stack</h1>
+<h1 align="left">🖥 Technology Stack</h1>
 <div align="center" style="margin-bottom: 4rem">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
