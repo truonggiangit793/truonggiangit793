@@ -24,7 +24,7 @@
 </div>
 
 <h1 align="center">🖥 Technology Stack</h1>
-<span align="center" style="margin-bottom: 2rem">
+<div align="center" style="margin-bottom: 2rem">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -59,7 +59,7 @@
     <img src="	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-</span>
+</div>
 
 <h1 align="center">🔥 My Github Stats</h1>
 <span align="center" style="margin-bottom: 2rem; display: flex; justify-content: center">
