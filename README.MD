@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there! 👋 I'm Truong Giang</h1>
 <div markdown="1" style="margin-bottom: 4rem; display: flex">
-    <p style="width: 60vw">I am Giang from Vietnam 🇻🇳. Currently, I am studying Computer network and Data communication 🖥 at Ton Duc Thang University in Ho Chi Minh City. I have a passion in website developer (both front-end and back-end) 😊. I have a creative eye for designing visually appealing websites. 💪 I have actively sought opportunities to enhance my skills and stay up-to-date with the latest industry trends, and I am looking for a challenging and rewarding position.</p>
+    <p style="width: 60vw; float: left">I am Giang from Vietnam 🇻🇳. Currently, I am studying Computer network and Data communication 🖥 at Ton Duc Thang University in Ho Chi Minh City. I have a passion in website developer (both front-end and back-end) 😊. I have a creative eye for designing visually appealing websites. 💪 I have actively sought opportunities to enhance my skills and stay up-to-date with the latest industry trends, and I am looking for a challenging and rewarding position.</p>
     <img width="30%" height="30%" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966"/>
 </div>
 <!-- <div markdown="1" style="display: flex; align-items: center; margin-bottom: 4rem">
