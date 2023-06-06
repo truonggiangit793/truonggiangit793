@@ -6,7 +6,7 @@
 
 <h1 align="left">Hi there! 👋 I'm Truong Giang</h1>
 <div style="margin-bottom: 5rem">
-    <p align="left">I am Giang from Vietnam 🇻🇳. Currently, I am studying Computer network and Data communication 🖥 at Ton Duc Thang University in Ho Chi Minh City. I have a passion in website development (both front-end and back-end) 😊. I have a creative eye for designing visually appealing websites. 💪 I have actively sought opportunities to enhance my skills and stay up-to-date with the latest industry trends, and I am looking for a challenging and rewarding position.</p>
+    <p align="left">I am Giang from Vietnam 🇻🇳. I am excited to become a professional programmer. I am a quick learner with the ability to adapt and apply new technologies to projects, and I am looking forward to the opportunity to contribute to an organization’s success.</p>
 </div>
 
 <h1 align="left">🖥 Technology Stack</h1>
