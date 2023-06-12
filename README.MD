@@ -9,7 +9,16 @@
 
 <p align="left">My name is Giang. I am an enthusiastic and dedicated individual from Vietnam, eager to pursue a career as a professional programmer. With a natural aptitude for learning, I quickly grasp new concepts and adapt to emerging technologies. My ability to apply my knowledge to practical projects showcases my creativity and problem-solving skills. I am highly motivated to contribute to the success of an organization, valuing teamwork and collaboration.</p>
 
-<h1 align="left">❤️ Connect with me:</h1>
+<h1 align="left">📝 Curriculum Vitae:</h1>
+
+-   My CV is updated regularly, follow the version format YY.MM.DD.
+-   You can find my curriculum vitae by following the button below:
+
+<a style="margin-left: 2rem" href="https://drive.google.com/drive/folders/1XCO35PVmHHg7upBZfELdXzjCSXz6lDns?usp=sharing" target="blank">
+    <img src="./assets/see-my-cv.svg" alt="MyCV" height="30"/>
+</a>
+
+<h1 align="left">💌 Connect with me:</h1>
 
 <div style="margin-bottom: 1rem">
 <a href="https://instagram.com/truonggiangit793" target="blank">
