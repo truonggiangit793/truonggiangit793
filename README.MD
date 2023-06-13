@@ -8,7 +8,13 @@
 
 <img align="right" width="150" src="./assets/coder-animation.gif"/>
 
-<p align="left">My name is Giang. I am an enthusiastic and dedicated individual from Vietnam, eager to pursue a career as a professional programmer. With a natural aptitude for learning, I quickly grasp new concepts and adapt to emerging technologies. My ability to apply my knowledge to practical projects showcases my creativity and problem-solving skills. I am highly motivated to contribute to the success of an organization, valuing teamwork and collaboration.</p>
+📌 My name is Giang. I am an enthusiastic and dedicated individual from Vietnam , eager to pursue a career as a professional programmer.
+
+📌 With a natural aptitude for learning, I quickly grasp new concepts and adapt to emerging technologies.
+
+📌 My ability to apply my knowledge to practical projects showcases my creativity and problem-solving skills.
+
+📌 I am highly motivated to contribute to the success of an organization, valuing teamwork and collaboration.
 
 <h1 align="left">📝 Curriculum Vitae:</h1>
 
