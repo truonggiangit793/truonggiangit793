@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there! 👋 I'm Truong Giang</h1>
 
-<p align="center" style="font-weight: bold; font-size:1.3rem">A passionate developer 💪</p>
+<h3 align="center">A passionate developer 💪</h3>
 
 <img align="right" width="150" src="./assets/coder-animation.gif"/>
 
@@ -16,7 +16,7 @@
 -   You can find my curriculum vitae by following the button below:
 
 <a href="https://drive.google.com/drive/folders/1XCO35PVmHHg7upBZfELdXzjCSXz6lDns?usp=sharing" target="blank">
-    <img style="selection: none; cursor: pointer" src="./assets/see-my-cv.svg" alt="MyCV" height="30"/>
+    <img src="./assets/see-my-cv.svg" alt="MyCV" height="30"/>
 </a>
 
 <h1 align="left">💌 Connect with me:</h1>
