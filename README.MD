@@ -1,11 +1,12 @@
-<img align="center" style="margin-bottom: 1rem" width="100%" src="https://i.pinimg.com/originals/d7/33/34/d733345e4f11231904e7634a04439e21.gif"/>
-
+![be-unique-be-yourself](./assets/github_cover.jpg)
 ![be-unique-be-yourself](./assets/be-unique-be-yourself.svg)
 ![passionate-developer](./assets/passionate-developer.svg)
 
 <h1 align="center">Hi there! 👋 I'm Truong Giang</h1>
 
-<img align="right" width="150" src="./assets//coder-animation.gif"/>
+<h2 align="center">A passionate developer 💪</h2>
+
+<img align="right" width="150" src="./assets/coder-animation.gif"/>
 
 <p align="left">My name is Giang. I am an enthusiastic and dedicated individual from Vietnam, eager to pursue a career as a professional programmer. With a natural aptitude for learning, I quickly grasp new concepts and adapt to emerging technologies. My ability to apply my knowledge to practical projects showcases my creativity and problem-solving skills. I am highly motivated to contribute to the success of an organization, valuing teamwork and collaboration.</p>
 
