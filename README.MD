@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there! 👋 I'm Truong Giang</h1>
 
-<h2 align="center">A passionate developer 💪</h2>
+<p align="center" style="font-weight: bold; font-size:1.3rem">A passionate developer 💪</p>
 
 <img align="right" width="150" src="./assets/coder-animation.gif"/>
 
